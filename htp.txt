@@ -1,0 +1,5 @@
+git init 
+git add . 
+git commit -m "komentar" 
+git remote add origin hhttps://github.com/andiariyandi/ImgaeToText.git
+git push -u origin master
