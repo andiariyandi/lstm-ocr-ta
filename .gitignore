@@ -85,7 +85,7 @@ freeline_project_description.json
 
 
 # Zip file
-*.zip
+
 *.rar
 *.gz
 *.tz

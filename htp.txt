@@ -2,4 +2,5 @@ git init
 git add . 
 git commit -m "komentar" 
 git remote add origin hhttps://github.com/andiariyandi/ImgaeToText.git
+git remote add origin https://github.com/andiariyandi/lstm-ocr-ta.git
 git push -u origin master
